@@ -1,0 +1,8 @@
+Excercise 2: 
+B1: Clone code tu gitlab ve: git clone https://gitlab.com/tubcvt/git_basic_ex2.git
+B2: Thay doi git remote: git remote set-url origin https://github.com/phamdund97/Git-Exercise.git
+B3: Tao feature branch feature_rocket: git branch feature_rocket
+B4: Tao file rocket-01.txt và them noi dung rocket 01h
+B5: Them index cho file va tao commit "Rocket 01h"
+B6: Push len remote: git push origin feature_rocket
+Link: 
