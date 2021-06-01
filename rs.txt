@@ -1,0 +1,7 @@
+Excercise 1: 
+B1: Clone code tu gitlab ve: git clone https://gitlab.com/tubcvt/git_basic_ex1.git
+B2: Tao feature branch f1_Du: git branch f1_Du
+B3: Switch branch tu master sang feature branch: git checkout f1_Du
+B4: Tao file t1.txt và them noi dung "hello sep duc"
+B5: Them index vào file t1.txt và commit file: git add t1.txt và git commit -m "Commited of file t1"
+B6: Push code len remote: git push origin f1_Du
